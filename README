@@ -1,0 +1,11 @@
+To run the migrations:
+
+1. Install gradle
+2. Create database address_book
+3. Run the command: "gradle flywayMigrate" from the root of the project directory
+
+
+To run the application:
+
+1. Install gradle
+2. Run the command: "gradle bootRun"
